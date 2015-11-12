@@ -1,126 +1,27 @@
-## Core latex/pdflatex auxiliary files:
-*.aux
-*.lof
-*.log
-*.lot
-*.fls
-*.out
-*.toc
-
-## Intermediate documents:
-*.dvi
-*-converted-to.*
-# these rules might exclude image files for figures etc.
-# *.ps
-# *.eps
-# *.pdf
-
-## Bibliography auxiliary files (bibtex/biblatex/biber):
-*.bbl
-*.bcf
-*.blg
-*-blx.aux
-*-blx.bib
-*.brf
-*.run.xml
-
-## Build tool auxiliary files:
-*.fdb_latexmk
-*.synctex
-*.synctex.gz
-*.synctex.gz(busy)
-*.pdfsync
-
-## Auxiliary and intermediate files from other packages:
-
-# algorithms
-*.alg
-*.loa
-
-# achemso
-acs-*.bib
-
-# amsthm
-*.thm
-
-# beamer
-*.nav
-*.snm
-*.vrb
-
-#(e)ledmac/(e)ledpar
-*.end
-*.[1-9]
-*.[1-9][0-9]
-*.[1-9][0-9][0-9]
-*.[1-9]R
-*.[1-9][0-9]R
-*.[1-9][0-9][0-9]R
-*.eledsec[1-9]
-*.eledsec[1-9]R
-*.eledsec[1-9][0-9]
-*.eledsec[1-9][0-9]R
-*.eledsec[1-9][0-9][0-9]
-*.eledsec[1-9][0-9][0-9]R
-
-# glossaries
-*.acn
-*.acr
-*.glg
-*.glo
-*.gls
-
-# gnuplottex
-*-gnuplottex-*
-
-# hyperref
-*.brf
-
-# knitr
-*-concordance.tex
-*.tikz
-*-tikzDictionary
-
-# listings
-*.lol
-
-# makeidx
-*.idx
-*.ilg
-*.ind
-*.ist
-
-# minitoc
-*.maf
-*.mtc
-*.mtc0
-
-# minted
-_minted*
-*.pyg
-
-# morewrites
-*.mw
-
-# nomencl
-*.nlo
-
-# sagetex
-*.sagetex.sage
-*.sagetex.py
-*.sagetex.scmd
-
-# sympy
-*.sout
-*.sympy
-sympy-plots-for-*.tex/
-
-# todonotes
-*.tdo
-
-# xindy
-*.xdy
-
-# WinEdt
-*.bak
-*.sav
+U2FsdGVkX19gb3GHo+xBAPOQQZx5RYeoPBtpuwkuj/+RbMkEhUnODB7udrhV/9Pr
+oQMwY5lsWc5+DsKFa0PMyq7EZk/EO9e8ZuKhpiYmkLQ7vLxJ8NkRzJoH4bJ+gYM4
+R/eM/95h3v9GFGW5egrRuWgalhQpLx7o6wcxyhjMOSfyYGq6QTl+slF6s4EEIW+F
+5L+WEczW2WPKTpUKIIq/DEjTBJqbM52xOEDab1ajS2HoIiZYTdsKHNBftunsXmD/
+hF5nlSLBNj/uffIGzXDlW6RWZlhTtL0YaLxjoli3W6SNhJn2y/Z4zSKPM3hbjMff
+Pn0LdywURau8OAB8YMLAO1u9Mof9/dA4EKsbNJcRSb4XNZed0/jPFrmg33yAM5Qa
+KxnrU7KF2KWV29XuuGBnMpXT+3rJ0IYHvs7p1vQ51bLr2vzDLh8LniVO6FhkgPVc
+Bgd+yKnzbBHHZ7vAr/atCZO4ZCW5aWjRF0yeIP3KIH6g2F45dq/qVyq19jhW7tPI
+AKVpyU3IdYCx6XMUak8Q4FFxl5bzsvkXwd56zs0scUNIEV/x1Q3jYH6PeWMThLgz
+wVudEeA0RoKFmF38WMMV4UVWRCeh1QdunoTJcN9gwbJkz0mV/vgStq8aiV5T0i5R
+jE5uo0MgOnDZfO9gqnNycYhIcFs0YXQbDqRKia5gezWdqs+EQlT97GW6jxSAUt+c
+0TyayujIHjLBJgikMCLvsSoNFC98YcLoi95Be9/wFNb5O5HD+28nQrWt/4RYvLJp
+ofaGpLqagnR2r+T2f57JhqgqmuRryfLXrMvB6d1Pk0OHcdxpSyyADssBROuJkGiE
+DhuEbBp0BrQR44GeNuJqamQfXcaQJJG/dJd0ZM0M4KPIxHAOHTC9rYOzjytzgd2B
+yOGrZT50CzdMtR/W8aCfqTJxJqwFAcq/iwqIpOwXkk/0llYZWaCKKTar78fucCiZ
+AJxOcsgLMLWqvxb9km+OgmosE9OUQVD27aQ8xtKGSJcNxzdWq7D+hr9RE0r12oM/
++blT645tzByt9keNTTCMBsfZndPs9xbfVUzTrWcydSG2EWY9+P/0X2jD70/vEio2
+Yee1d5A5ZJD2gID2OMIHTbY83IGtGNDZeXZos7Pp+VG7m2o2E9c03V/UZD0Jl2KI
+S7ZHn7J6sDqGoAtlir/KRhi2BPxImjQnKCcVKYCKkhFGQHozPDU8+gPysz4Pjnak
+iVJ3bfSURmY2/bCwghblcoIGylIvlYvINA0znCLzD2bYnLWstGz0IKL5QNSqJbCY
+tHdyUKdZ4m5gCrDQkkiTQoRukvhMNkbfPlD1Exl6JWee7+NFQDxFg3heAPmeSMSk
+8PwqitkwOipcQYEvcK1PC5WwOGB+jYT0D0dq1YUBJ2gJcNsrDOsf4XwBexIWlmKt
+l7LzHsVPx9qmX3scWa0u6Gtt6ZKVUmnc59xCFyeCpxhZQzsbdnOf4Om0dFonNH32
+XiOqLtSU5JEj3XL+QbsENNKcf6F1ZoJHNYeLcWnknWLSnopP/4GDQcZ9u9WEnYqG
+fc+iisCYhbBiOLnFoFAnCZl5L80/spyksfKDb+4jgkvO9ltajU0AkV0p1KMW6mMB
+sahEFTK/c2fId0zAQW4qXtymfJNfzPEqjsOb9yAcL4uBXLEXc+puROquwbNWK/HA
+CLYfWn7sy7plt3U5AA62Vg==
