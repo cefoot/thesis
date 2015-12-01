@@ -1,17 +1,12 @@
-Das ist die Diplom Arbeit von Jens Wöhlecke
-
-ich benutze zum erstellen 
-- TeXstudio 2.10.4 (einfach neuste Version aus dem Internet)
-- texlive 20140525 (u:\Editoren\Text\tex\texlive2014-20140525.iso -- full install)
-
-Für die Erstellung sind folgende Schritte nötig:
-1. TexStudio Datei öffnen (Diplom.tex)
-2. TeXstudio erstellen (grüne Pfeile)
-3. makeidx.bat mit Parameter "Diplom" aufrufen
-4. TeXstudio>Tools>Befehle>Bibtex
-5. TeXstudio erstellen (grüne Pfeile)
-
-dann sollte eine PDF mit 88 Seiten erstellt werden. (Diplom.pdf)
-
-
-~cep
+U2FsdGVkX19gb3GHo+xBAPGzlgzfiW7iHl7Od5qPSXbLDaGkKrCOvxPOU9BrrmxK
+iRpBp6N4uCVavZ3ubvPV4f6oSRaVZYT0EiRasDjtIFkRvjtwKJyDnX7LoJxOYy8F
+tzTMTGCypIgqhrOrRd89Z+YYMDPHoLqRdZwwiB8HZ4ADYfX1d7GrPtbGJGKaDvWE
+Hfz0lc6zNAAb9vLKVBbhOqUOQKKaSYDw/YjoJAAYadtkDrtlPP3o2qmnHw6+m667
+f9xrVOU1EYFz+r7eRAYbkOvEI+S5bdLATzkad1cOCjdZ1aLHG/zA3UqYcrE4Xef6
+noWvbtEj04ZVPKKXQ778aWBfggwPEdrX1bswvf2K8Ky+SxqgL17VOnhgiiUMbuNN
+kFx7Gikww0PE6hXYHOmkcCPp7K0eIEqt8ZJZyJiBTG6lqteVxREVFcfL+B+M74Y6
+YHgpmrlV7L34yB477nVsfStV+FEOKS99mCGhDtaI3HXWtvLu4DXT9s5vfTGgVFBq
+zxZ38CZl0nhnuhKB69BQxLY5Sj3vJxyrX+O/F79/qU4iroi3cFRZWBdZ/eihnHcp
+/DZGnZeaCQqHhgzKvAP/J0qAVR0bGTW8YCtYeWncip6LZOvpW7RLDfnVKHSXKtNp
+xOZIaWe95zZO2x+upF7BBHhareFldVKLQ4Ah2+yVGi6daGa2W60fDGY5n57Nr3wA
+uFoheXK5tkdqDw3lPDOtHWBzZbojfCGeiHDMCiX0fGd0jRFjHD4Dl1Qs9c5d3JBg
